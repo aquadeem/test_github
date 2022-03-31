@@ -4,3 +4,5 @@ def one():
 def two():
     pass
 
+def three():
+    pass
