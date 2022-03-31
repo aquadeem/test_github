@@ -12,3 +12,6 @@ def function_hello_issue53_test():
 
 def function_pass_issue53_test():
     pass
+
+def function_name_issue53_test():
+    print('hello name')
