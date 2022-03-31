@@ -3,3 +3,6 @@ def function_hello():
 
 def function_pass():
     pass
+
+def function_name():
+    print('hello name')
